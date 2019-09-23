@@ -1,4 +1,4 @@
-package net.premierprojet.servlets;
+package com.sdzee.tp.servlets;
 
 import java.io.IOException;
 
@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import net.premierprojet.beans.Client;
+import com.sdzee.tp.beans.Client;
 
 public class CreationClient extends HttpServlet {
 

@@ -1,4 +1,4 @@
-package net.premierprojet.beans;
+package com.sdzee.tp.beans;
 
 public class Commande {
 	 /* Propriétés du bean */

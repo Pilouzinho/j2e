@@ -1,4 +1,4 @@
-package net.premierprojet.beans;
+package com.sdzee.tp.beans;
 
 public class Client {
 	 /* Propriétés du bean */

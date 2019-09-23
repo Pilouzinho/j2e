@@ -1,4 +1,4 @@
-package net.premierprojet.servlets;
+package com.sdzee.tp.servlets;
 
 import java.io.IOException;
 
@@ -11,8 +11,8 @@ import org.joda.time.DateTime;
 import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;
 
-import net.premierprojet.beans.Client;
-import net.premierprojet.beans.Commande;
+import com.sdzee.tp.beans.Client;
+import com.sdzee.tp.beans.Commande;
 
 public class CreationCommande extends HttpServlet {
 
